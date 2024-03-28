@@ -35,6 +35,7 @@ namespace GastosApi.Controllers
         {
 
             return gasto + gastoDos;
+            // detalle
 
         }
     }
